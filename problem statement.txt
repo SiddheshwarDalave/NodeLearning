@@ -1,0 +1,13 @@
+1. Model - STudent
+student Name,
+School Name,
+Class,
+city
+
+2. APIs 
+i. Create student
+ii. Get All students
+iii. Get students by ID
+iv. Update student by Id
+v. Delete student by ID
+vi. Delete All student
